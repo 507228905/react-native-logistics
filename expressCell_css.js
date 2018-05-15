@@ -37,7 +37,7 @@ export default {
 
     expressLeft: {
         position:'absolute',
-        left:6,
+        left:6.1,
         top:20,
         backgroundColor:'#e0e0e0',
         height:10,
